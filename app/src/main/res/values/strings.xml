@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">SektorApp</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar_conta">Criar uma conta</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="client">Cliente</string>
+    <string name="investidor">Investidor</string>
+    <string name="nome">Nome</string>
+    <string name="razao_social">Razão Social</string>
+    <string name="cpf">CPF</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="rg">RG</string>
+    <string name="juridica">Juridica</string>
+    <string name='fisica'>Fisica</string>
+    <string name="inscricao_estadual">Inscrição Estadual</string>
+    <string name="telefone">Telefone</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="numero">Número</string>
+    <string name="complemento">Complemento</string>
+    <string name="bairro">Bairro</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="ocupacao">Ocupação</string>
+    <string name="banco">Banco</string>
+    <string name="agencia">Agencia</string>
+    <string name="escolaridade">Escolaridade</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="representante_legal">Representante Legal</string>
+    <string name="data_nascimento">Data de Fundação</string>
+    <string name="ramo_atuacao">Ramo de Atuação</string>
+    <string name="qualificao">Qualificação</string>
+    <string name="titular_conta">Titular da Conta</string>
+    <string name="conta_custodia">Conta de Custodia</string>
+    <string name="tipo_cadastro">Tipo de Cadastro</string>
+    <string name="tipo_pessoa">Tipo Pessoa</string>
+    <string name="aguarde">Aguarde...</string>
+    <string name="realizando_login">Realizando o login</string>
+    <string name="falha_login">Falha no login</string>
+    <string name="incorreto">Email ou senha incorreta</string>
+    <string name="login">Login</string>
+    <string name="confirme_senha">Confirme a Senha</string>
+    <string name="conta">Conta</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email_invalido">Digite um e-mail válido</string>
+    <string name="senha_invalida">Senha inválida</string>
+    <string name="senha_invalida_caracteres">Senha no mínimo precisa de 6 caracteres</string>
+    <string name="senha_min_6">Senha (mínimo 6 caracteres)</string>
+    <string name="falha_cadastrar">Fala no servidor</string>
+    <string name="falha_servidor">Ocorreu alguma falha no servidor</string>
+    <string name="realizando_cadastro">Realizando o cadastro...</string>
+    <string name="data">Data: </string>
+    <string name="autor">Autor: </string>
+    <string name="noticias">Notícias</string>
+    <string name="continuar_conectado">Continuar conectado</string>
+
+    <string-array name="arr_escolaridade">
+        <item>Selecione a escolaridade</item>
+        <item>Ensino fundamental incompleto</item>
+        <item>Ensino fundamental completo</item>
+        <item>Ensino médio incompleto</item>
+        <item>Ensino médio completo</item>
+        <item>Ensino superior incompleto</item>
+        <item>Ensino superior completo</item>
+    </string-array>
+
+    <string-array name="arr_estado_civil">
+        <item>Selecione o estado civil</item>
+        <item>Solteiro (a)</item>
+        <item>Casado (a)</item>
+    </string-array>
+    <string name="title_activity_login_action">LoginActionActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_noticias_action_bar">NoticiasActionBar</string>
+
+</resources>
